@@ -1,0 +1,9 @@
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=10&num2=2 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 10 addition 2 = 12","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=10&num2=2 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 10 multiplication 2 = 20","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=12&num2=2 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 12 division 2 = 6","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=12&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 12 subtraction 3 = 9","service":"calculator-microservice"}
